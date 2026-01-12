@@ -22,7 +22,8 @@ I followed a layered architecture to keep things organized and professional:
 ## 🚦 How to test it
 You can run this project in IntelliJ IDEA and use a tool like Postman to test the endpoints:
 
-* Method: POST
+* Method: POST<img width="1867" height="875" alt="Screenshot 2026-01-12 175106" src="https://github.com/user-attachments/assets/079390ec-b5a8-45f8-9c5e-b8364138bb72" />
+
 * URL: http://localhost:8080/api/v1/products
 * Body Example: 
   {
@@ -32,4 +33,10 @@ You can run this project in IntelliJ IDEA and use a tool like Postman to test th
 
 
 ---
-Developed by me as part of Task 2.A at Akademia Finansów i Biznesu Vistula.
+Developed by me as part of Task 2.A at Akademia Finansów i Biznesu Vistula.<img width="1867" height="875" alt="Screenshot 2026-01-12 175106" src="https://github.com/user-attachments/assets/c2446c6f-58a8-4a27-8798-55e891e01182" />
+<img width="1862" height="908" alt="Screenshot 2026-01-12 175019" src="https://github.com/user-attachments/assets/c6cc9f8e-3cb4-4ae2-b723-040b45d5d0af" />
+<img width="1909" height="569" alt="Screenshot 2026-01-12 174949" src="https://github.com/user-attachments/assets/80447299-e965-4d54-a609-280af326c643" />
+<img width="1596" height="844" alt="Screenshot 2026-01-12 174912" src="https://github.com/user-attachments/assets/be95681f-4c66-4100-989e-19c7e9b66e5c" />
+<img width="1877" height="922" alt="Screenshot 2026-01-12 175132" src="https://github.com/user-attachments/assets/509609fa-56af-4be7-ada0-37eb0cdc41a4" />
+
+
